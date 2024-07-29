@@ -14,7 +14,7 @@ const BlogHome = () => {
           >
             <div>
               <img
-                className="rounded-t-2xl h-[250px] w-full"
+                className="rounded-t-2xl h-[200px] md:h-[250px] w-full"
                 src={data.image}
               ></img>
               <div className="px-4 pt-8">
