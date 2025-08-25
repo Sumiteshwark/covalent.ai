@@ -2,10 +2,12 @@
 logs
 *.log
 npm-debug.log*
+.1_env
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
+.env
 
 node_modules
 dist
@@ -16,6 +18,7 @@ dist-ssr
 .vscode/*
 !.vscode/extensions.json
 .idea
+.2_env
 .DS_Store
 *.suo
 *.ntvs*
